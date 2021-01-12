@@ -1,3 +1,3 @@
 # GUI-and-API-Consumption
 
-![Screenshot](../master/Weather Search/Screenshot.png)
+![Screenshot](../main/Weather Search/Screenshot.png)
